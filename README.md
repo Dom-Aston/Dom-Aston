@@ -1,5 +1,5 @@
 ## Hi, how are you? 👋
-- 🪐 Currently a Data Scientist whose passionate about software development and effective deployment.<br>
+- 🪐 Data Scientist whose passionate about software development and user-centric deployment.<br>
 - 🌱 Looking to learn a compiled programming language.<br>
 - 👾 Interested in exploring gaming technologies.<br>
 
