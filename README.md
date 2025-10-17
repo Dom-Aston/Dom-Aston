@@ -1,6 +1,6 @@
 ## Hi, I'm Dom 👋
 🔭 I’m currently working on mobile applications, data/AI consulting, and design.<br>
-🤖 Experienced Palantir Foundry developer.<br>
+🤖 Experienced Palantir Foundry, Azure, and AWS developer.<br>
 👨‍💻 All of my projects are available at [trustedmethods.com](https://www.trustedmethods.com/)<br>
 📫 How to reach me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/domaston/) <br>
